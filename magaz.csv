@@ -1,0 +1,18 @@
+Columns: ADDRESS, MAC-ADDRESS, HOST-NAME, SERVER, STATUS, LAST-SEEN
+ #   ADDRESS        MAC-ADDRESS        HOST-NAME                  SERVER   STATUS  LAST-SEEN
+ 0 D 10.102.44.132  B8:27:EB:28:BD:60  raspberrypi                defconf  bound   5s       
+ 1 D 10.102.44.107  98:6C:F5:57:8B:3A                             defconf  bound   1m18s    
+ 2 D 10.102.44.184  6C:21:A2:7C:EE:DA  android-f06546da477f2da1   defconf  bound   11s      
+ 3 D 10.102.44.134  B8:27:EB:7D:E8:35  raspberrypi                defconf  bound   21s      
+ 4 D 10.102.44.118  00:E9:3A:6A:B7:95  shop244                    defconf  bound   1m8s     
+ 5 D 10.102.44.133  70:4A:0E:E7:65:B8                             defconf  bound   8s       
+ 6 D 10.102.44.108  48:A9:8A:24:7F:8D  mikrotik_ap                defconf  bound   1m51s    
+ 7 D 10.102.44.185  FC:A4:7A:AF:E2:24  DESKTOP-0EVNF62            defconf  bound   10s      
+ 8 D 10.102.44.183  FC:A4:7A:AF:E2:20  DESKTOP-GN9S501            defconf  bound   5m       
+ 9 D 10.102.44.101  70:4A:0E:E7:85:9C                             defconf  bound   2m48s    
+10 D 10.102.44.102  FC:02:96:23:AC:25  Redmi-Note-11              defconf  bound   32s      
+11 D 10.102.44.182  FC:A4:7A:AF:E2:78  DESKTOP-CAP4JH0            defconf  bound   1m10s    
+12 D 10.102.44.103  70:4A:0E:E7:76:3C                             defconf  bound   2m58s    
+13 D 10.102.44.126  A2:09:01:B2:43:35  HUAWEI_P_smart_2021-5ebc6  defconf  bound   3m47s    
+14 D 10.102.44.151  98:6C:F5:57:8A:DB                             defconf  bound   2m36s    
+15 D 10.102.44.123  64:6C:80:77:FD:1B  DESKTOP-HRTBAOC            defconf  bound   4m47s
