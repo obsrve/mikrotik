@@ -8,8 +8,8 @@ def mikrott():
         'device_type': 'mikrotik_routeros',
         'host': '10.10.4.1',
         'port': '22',
-        'username': 'sysadm',
-        'password': 'brosco.net.ua'
+        'username': '',
+        'password': ''
     }
 
     sshCli = ConnectHandler(**mk)
